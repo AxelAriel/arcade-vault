@@ -6,7 +6,7 @@ Arcade Vault: platform to play games online and compete for points. Next.js 16.4
 
 ## Skills
 
-Usa siempre /frontend-design para diseñar el frontend.e
+Usa siempre /frontend-design para diseñar la interfaz del usuario.
 
 ## Next.js
 
